@@ -47,3 +47,31 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlis
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/24_news_in.png",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+#EXTINF:-1 , ACV iptv playlist / link (Opt-2)
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1 , ACV News  iptv playlist / link
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+#EXTINF:-1 , Asianet News iptv playlist / link
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 ,DD Malayalam iptv playlist / link
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 ,Jeevan TV iptv playlist / link
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1 ,Kairali News iptv playlist / link
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+#EXTINF:-1 ,Kairali TV iptv playlist / link
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 ,Kairali We iptv playlist / link
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 ,Kappa TV iptv playlist / link
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 ,Mangalam TV iptv playlist / link
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 ,Manorama News iptv playlist / link
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 ,Mathrubhumi News  iptv playlist / link
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 ,Reporter TV iptv playlist / link (Opt-1)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+
