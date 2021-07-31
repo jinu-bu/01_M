@@ -1,17 +1,19 @@
 #EXTM3U
-#EXTINF:-1  group-title="Group Title" tvg-logo="Logo",Janam TV
+#EXTINF:-1  group-title="Entertainment" tvg-logo="N/A",ACV
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png",Kaumudy TV
+https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Janam TV | Youtube
 https://www.youtube.com/embed/_WK30gnY3_4?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",24 News
-https://www.youtube.com/embed/cbFQmtGLNaA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",News 18 Malayalam
+#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",News 18 | Youtube
 https://www.youtube.com/embed/UUFYCs7JbwA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Mathrubhoomi News
+#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Mathrubhoomi | Youtube
 https://www.youtube.com/embed/z3EoIQAKJ5c?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Manorama News
-https://www.youtube.com/embed/jjH6v95z3Nw?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Media one
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Media one | Youtube
 https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="",Kairali TV
+#EXTINF:-1  group-title="Youtube" tvg-logo="N/A",Kairali TV | Youtube
 https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
-
-
