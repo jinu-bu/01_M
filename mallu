@@ -1,21 +1,37 @@
 #EXTM3U
-#EXTINF:-1  group-title="Entertainment" tvg-logo="N/A",ACV
-https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+
 #EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628106854/ei/BpwKYd2BAYe13LUPj7-BkAM/ip/150.242.22.6/id/JstrU2QnMY0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKJiI-4PtgXri7gLDx68f2J3E1-06qOubSHrYEGfhjenAiEApRZNb6gwxnYUWkc07T5tkQpkGtD4keAD7Fbz6CZfI_0%3D/file/index.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png",Media One HD
+https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/24_news_in.png",Twenty Four News
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mangalam_tv_in.png",Mangalam TV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="https://i.imgur.com/89LBgkl.png",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png",Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+
+#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Media one | Youtube
+https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="N/A",Kairali News | Youtube
+https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="N/A",ASIANET TV | Youtube
 #EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Janam TV | Youtube
 https://www.youtube.com/embed/_WK30gnY3_4?autoplay=1&modestbranding=1
 #EXTINF:-1  group-title="Youtube" tvg-logo="Logo",News 18 | Youtube
 https://www.youtube.com/embed/UUFYCs7JbwA?autoplay=1&modestbranding=1
 #EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Mathrubhoomi | Youtube
 https://www.youtube.com/embed/z3EoIQAKJ5c?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Media one | Youtube
-https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="N/A",Kairali TV | Youtube
-https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="N/A",ASIANET TV | Youtube
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1628106854/ei/BpwKYd2BAYe13LUPj7-BkAM/ip/150.242.22.6/id/JstrU2QnMY0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKJiI-4PtgXri7gLDx68f2J3E1-06qOubSHrYEGfhjenAiEApRZNb6gwxnYUWkc07T5tkQpkGtD4keAD7Fbz6CZfI_0%3D/file/index.m3u8
+
+
