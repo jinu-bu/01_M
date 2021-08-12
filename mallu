@@ -1,48 +1,73 @@
 #EXTM3U
-
-#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png",Kaumudy TV
-https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
-#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/media_one_in.png",Media One HD
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8
-#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/24_news_in.png",Twenty Four News
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Janam TV | Youtube
+https://www.youtube.com/embed/_WK30gnY3_4?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Kairali News | Youtube
+https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Mathrubhoomi | Youtube
+https://www.youtube.com/embed/z3EoIQAKJ5c?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Media one | Youtube
+https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",News 18 | Youtube
+https://www.youtube.com/embed/UUFYCs7JbwA?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mangalam_tv_in.png",Mangalam TV
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png",Amrita TV
-http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="https://i.imgur.com/89LBgkl.png",Asianet News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png",Jaihind TV
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png",Kairali TV
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1  group-title="Entertainment",Flowers TV
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="N/A",Kaumudy TV
+#EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",CCTV
+http://live.wmncdn.net:80/cctv/a03e3acc5f2e77d60fbb9d3dac889236.sdp/chunks.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="N/A",Manorama News
+#EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",MALABAR NEWS
+http://cloud.logicwebs.in:1935/live/malabarnews/chunklist_w2111254165.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/mangalam_tv_in.png",Mangalam TV
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1  group-title="Entertainment" tvg-logo="N/A",Mathrubhumi News
+#EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Mathrubhumi News
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-#EXTINF:-1  group-title="News" tvg-logo="",News 18
+#EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",News 18
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  group-title="News" tvg-logo="N/A",24 News
+#EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/24_news_in.png",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Media one | Youtube
-https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="N/A",Kairali News | Youtube
-https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="N/A",ASIANET TV | Youtube
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Janam TV | Youtube
-https://www.youtube.com/embed/_WK30gnY3_4?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",News 18 | Youtube
-https://www.youtube.com/embed/UUFYCs7JbwA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="Logo",Mathrubhoomi | Youtube
-https://www.youtube.com/embed/z3EoIQAKJ5c?autoplay=1&modestbranding=1
-
-
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png",Amrita TV
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",C MALA
+http://cmalayalam.livebox.co.in:80/CMALAYALAMTVhls/live.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Eye vision
+http://weone.livebox.co.in:80/eyevisionhls/live.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Flowers tv
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png",Jaihind TV
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Jeevan tv
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Jeevan tv
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png",Kairali TV
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Kaumudy TV
+https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",KCV
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",M4 mal
+http://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",METRO
+http://account30.livebox.co.in:80/Metrohls/Cable.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",METRO 7
+http://weone.livebox.co.in:80/Metro7hls/Metro7.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Pulari tv
+http://192.99.2.28/pularitv_hls/pularitv.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",RELAX
+http://198.144.149.82:8080/NOTV/RELAXTV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",WE ONE
+http://weone.livebox.co.in:80/weonehls/weone.m3u8
+#EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Box office
+https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Discovery science
+https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Discovery Turbo
+https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
