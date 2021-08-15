@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Janam TV | Youtube
-https://www.youtube.com/embed/_WK30gnY3_4?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Kairali News | Youtube
-https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Mathrubhoomi | Youtube
-https://www.youtube.com/embed/z3EoIQAKJ5c?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Media one | Youtube
-https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",News 18 | Youtube
-https://www.youtube.com/embed/UUFYCs7JbwA?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="News" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_News.png",Asianet News
+http://watchindia.net:8880/live/60275/20486/268.ts
 #EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",24 News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1  group-title="News" tvg-logo="https://i.imgur.com/89LBgkl.png",Asianet News
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",CCTV
 http://live.wmncdn.net:80/cctv/a03e3acc5f2e77d60fbb9d3dac889236.sdp/chunks.m3u8
 #EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png",Kaumudy TV
@@ -29,35 +19,69 @@ http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/ind
 https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1  group-title="News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/24_news_in.png",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1  group-title="News" tvg-logo="https://watchindia.net/images/channels/malayalam/Reporter_TV.png",Reporter TV
+http://watchindia.net:8880/live/60275/20486/306.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/Raj_Musix_Malayalam.jpg",Raj Musix
+http://watchindia.net:8880/live/60275/20486/286.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Raj_News_Malayalam.png",Raj News
+http://watchindia.net:8880/live/60275/20486/291.ts
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/amrita_tv-1.png",Amrita TV
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",C MALA
 http://cmalayalam.livebox.co.in:80/CMALAYALAMTVhls/live.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_HD.png",Asianet HD
+http://watchindia.net:8880/live/60275/20486/2216.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Mazhavil_Manorama_HD.png",Mazhavil Manorama HD
+http://watchindia.net:8880/live/60275/20486/280.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Garshom_TV.png",Garshom TV
+http://watchindia.net:8880/live/60275/20486/1291.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Amrita.png",Amrita
+http://watchindia.net:8880/live/60275/20486/284.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet.png",Asianet HD USA
+http://watchindia.net:8880/live/60275/20486/1300.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Plus.png",Asianet Plus
+http://watchindia.net:8880/live/60275/20486/277.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Asianet_Movies.png",Asianet Movies
+http://watchindia.net:8880/live/60275/20486/278.ts
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Eye vision
 http://weone.livebox.co.in:80/eyevisionhls/live.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Flowers tv
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Safari_TV.png",Safari TV
+http://watchindia.net:8880/live/60275/20486/1301.ts
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/jai_hind_tv.png",Jaihind TV
 http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Comedy.png",Surya Comedy
+http://watchindia.net:8880/live/60275/20486/299.ts
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Jeevan tv
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Jeevan tv
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kairali_in.png",Kairali TV
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/WE_TV.png",Kairali We
+http://watchindia.net:8880/live/60275/20486/1761.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Kappa_TV.png",Kappa TV
+http://watchindia.net:8880/live/60275/20486/1762.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Kairali_TV.png",Kairali TV
+http://watchindia.net:8880/live/60275/20486/307.ts
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Kaumudy TV
 https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",KCV
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Kochu_TV.png",Kochu TV
+http://watchindia.net:8880/live/60275/20486/290.ts
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",M4 mal
 http://app.m4stream.live/mfourmalayalamhls/live.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/MBO.png",Malayalam Box Office
+http://watchindia.net:8880/live/60275/20486/2156.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Magnavision_TV.png",Magnavision TV
+http://watchindia.net:8880/live/60275/20486/2233.ts
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",METRO
 http://account30.livebox.co.in:80/Metrohls/Cable.m3u8
-#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",METRO 7
+#EXTINF:-1  group-title="News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",METRO 7
 http://weone.livebox.co.in:80/Metro7hls/Metro7.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Pulari tv
 http://192.99.2.28/pularitv_hls/pularitv.m3u8
@@ -65,9 +89,41 @@ http://192.99.2.28/pularitv_hls/pularitv.m3u8
 http://198.144.149.82:8080/NOTV/RELAXTV/tracks-v1a1/mono.m3u8?token=GTR
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",WE ONE
 http://weone.livebox.co.in:80/weonehls/weone.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Movies.png",Surya Movies
+http://watchindia.net:8880/live/60275/20486/298.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_Music.png",Surya Music
+http://watchindia.net:8880/live/60275/20486/285.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD
+http://watchindia.net:8880/live/60275/20486/2261.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Surya_HD.png",Surya TV HD USA
+http://watchindia.net:8880/live/60275/20486/1938.ts
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://watchindia.net/images/channels/malayalam/Zee_Keralam_HD.png",Zee Keralam
+http://watchindia.net:8880/live/60275/20486/287.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix HD
+http://watchindia.net:8880/live/60275/20486/2088.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/hindi/HBO_HD.png",HBO
+http://watchindia.net:8880/live/60275/20486/2081.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now HD
+http://watchindia.net:8880/live/60275/20486/2102.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png",Sky Cinema Action
+http://watchindia.net:8880/live/60275/20486/2176.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png",Star Movies HD
+http://watchindia.net:8880/live/60275/20486/2080.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/english/Star_World_HD.png",Star World HD
+http://watchindia.net:8880/live/60275/20486/2191.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png",Sky Cinema Sci-Fi/Horror
+http://watchindia.net:8880/live/60275/20486/2180.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png",Sky Cinema Premiere
+http://watchindia.net:8880/live/60275/20486/2169.ts
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png",Sky Cinema Thriller
+http://watchindia.net:8880/live/60275/20486/2178.ts
 #EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Box office
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Discovery science
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Discovery Turbo
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
+#EXTINF:-1  group-title="English" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_World_HD.png",Discovery World HD
+http://watchindia.net:8880/live/60275/20486/793.ts
+#EXTINF:-1  group-title="English" tvg-logo="http://watchindia.net/images/channels/usa/Cartoon_Network.png",Cartoon Network
+http://watchindia.net:8880/live/60275/20486/2052.ts
