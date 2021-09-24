@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  group-title="A_News" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",24 News
-rtsp://46.249.213.87/broadcast/b4u-tablet.3gp
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
 #EXTINF:-1  group-title="A_News" tvg-logo="N/A",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1  group-title="A_News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/kaumudy_tv.png",News 18 Keralam
@@ -9,22 +9,16 @@ https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?sd=1
 http://weone.livebox.co.in:80/Metro7hls/Metro7.m3u8
 #EXTINF:-1  group-title="A_News" tvg-logo="N/A",Kairali News
 http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
-#EXTINF:-1  group-title="A_News" tvg-logo="Logo",Manorama News
+#EXTINF:-1  group-title="A_News" tvg-logo="https://img.manoramanews.com/content/dam/mm/mnews/logo/manoramanews-logo-feb.png",Manorama News
 http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1  group-title="A_News" tvg-logo="N/A",DD Malayalam
+#EXTINF:-1  group-title="A_News" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dd-malayalam-tv-channel-logo-150x150.jpg",DD Malayalam
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1  group-title="A_News" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/24_news_in.png",Twenty Four News
 http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
-#EXTINF:-1  group-title="B_Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Mathrubhoomi | Youtube
-https://www.youtube.com/embed/z3EoIQAKJ5c?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="B_Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",News 18 | Youtube
-https://www.youtube.com/embed/UUFYCs7JbwA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="B_Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Kairali News | Youtube
-https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="B_Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Media one | Youtube
-https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
-#EXTINF:-1  group-title="B_Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Janam TV | Youtube
-https://www.youtube.com/embed/_WK30gnY3_4?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="A_News" tvg-logo="Logo",Media One
+http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
+#EXTINF:-1  group-title="A_News" tvg-logo="Logo",Reporter TV
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Flowers TV
 rtsp://46.249.213.93/broadcast/indianstudentcinema-tablet.3gp
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/janam_tv_in.png",Janam TV
@@ -41,3 +35,15 @@ rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
 rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
 #EXTINF:-1  group-title="Malayalam Ent" tvg-logo="Logo",Mangalam TV
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1  group-title="Malayalam Ent" tvg-logo="Logo",Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Mathrubhoomi | Youtube
+https://www.youtube.com/embed/z3EoIQAKJ5c?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",News 18 | Youtube
+https://www.youtube.com/embed/UUFYCs7JbwA?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Kairali News | Youtube
+https://www.youtube.com/embed/ET5Y3H3Jusc?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Media one | Youtube
+https://www.youtube.com/embed/d1iwUB9YFnA?autoplay=1&modestbranding=1
+#EXTINF:-1  group-title="Youtube" tvg-logo="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6-970-80.jpg.webp",Janam TV | Youtube
+https://www.youtube.com/embed/_WK30gnY3_4?autoplay=1&modestbranding=1
