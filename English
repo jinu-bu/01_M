@@ -1,1 +1,8 @@
+#EXTM3U
+#EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Box office
+https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Discovery science
+https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:-1  group-title="English" tvg-logo="https://logovectorseek.com/wp-content/uploads/2020/11/next-tv-logo-vector.png",Discovery Turbo
+https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 
